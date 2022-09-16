@@ -1,4 +1,4 @@
-# mind-therapy
+# MIND therapy
 
 According to the CBC, in a new survey conducted jointly by the Angus Reid Institute, 54 per cent of Canadians said their mental health had worsened during the past two years — with women faring significantly worse than men (2022). 
 
@@ -12,9 +12,9 @@ MIND is an online platform connecting Canadians to medical professionals, counse
 # Technologies Used
 
 MIND is built with HTML, CSS and Bootstrap 5
-(https://mind-therapy-app.netlify.app/) [https://mind-therapy-app.netlify.app/] 
+[https://mind-therapy-app.netlify.app/](https://mind-therapy-app.netlify.app/) 
 
-Reference list:
 
+# Reference list:
 
 CBC (2022). 2 years into the pandemic, Canada's mental-health system is at a crisis point. Retrieved from https://www.cbc.ca/news/health/canada-mental-health-crisis-covid-19-pandemic-1.6382378
