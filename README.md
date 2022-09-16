@@ -12,7 +12,7 @@ MIND is an online platform connecting Canadians to medical professionals, counse
 # Technologies Used
 
 MIND is built with HTML, CSS and Bootstrap 5
-[https://mind-therapy-app.netlify.app/] (https://mind-therapy-app.netlify.app/)
+(https://mind-therapy-app.netlify.app/) [https://mind-therapy-app.netlify.app/] 
 
 Reference list:
 
