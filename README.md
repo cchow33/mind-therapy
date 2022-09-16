@@ -20,3 +20,6 @@ MIND is built with HTML, CSS and Bootstrap 5
 # Reference list:
 
 CBC (2022). 2 years into the pandemic, Canada's mental-health system is at a crisis point. Retrieved from https://www.cbc.ca/news/health/canada-mental-health-crisis-covid-19-pandemic-1.6382378
+
+# Credits
+<a href="https://www.freepik.com/free-vector/mental-health-awareness-concept_7974025.htm#query=healthy%20mind&position=14&from_view=keyword">Image by pikisuperstar</a> on Freepik
